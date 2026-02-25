@@ -1,5 +1,5 @@
 <?php
-// coba
+
 $host = 'localhost';
 $dbname = 'kampus';
 $username = 'root';

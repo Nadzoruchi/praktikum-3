@@ -1,5 +1,5 @@
 <?php
-// coba
+
 require 'connection.php';
 
 $stmt = $pdo->query("SELECT * FROM mahasiswa ORDER BY id DESC");

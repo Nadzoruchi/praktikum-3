@@ -1,5 +1,5 @@
 <?php
-// coba
+
 require 'connection.php';
 $id = $_GET['id'];
 $sql = "DELETE FROM mahasiswa WHERE id = ?";

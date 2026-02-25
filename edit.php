@@ -1,5 +1,5 @@
 <?php
-// coba
+
 require 'connection.php';
 $id = $_GET['id'];
 $stmt = $pdo->prepare("SELECT * FROM mahasiswa WHERE id = ?");

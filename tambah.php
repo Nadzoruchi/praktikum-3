@@ -1,5 +1,5 @@
 <?php
-// coba
+
 require 'connection.php';
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 $nim = $_POST['npm'];
