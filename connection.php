@@ -1,5 +1,5 @@
 <?php
-
+// coba
 $host = 'localhost';
 $dbname = 'kampus';
 $username = 'root';
@@ -13,3 +13,4 @@ $password);
     die("Koneksi Database Gagal: " . $e->getMessage());
 }
 ?>
+
